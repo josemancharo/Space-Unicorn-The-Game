@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "lib": ["DOM", "ESNext", "DOM.Iterable"],
+        "jsx": "preserve",
+        "esModuleInterop": true,
+        "allowSyntheticDefaultImports": true,
+        "module": "ESNext",
+        "moduleResolution": "node",
+        "isolatedModules": true,
+        "allowJs": true,
+        "checkJs": true,
+        "target": "es2015",
+        "resolveJsonModule": true
+    }, 
+    "exclude": [
+        "node_modules",
+        "dist"
+    ]
+}
